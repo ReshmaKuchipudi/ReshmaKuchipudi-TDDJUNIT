@@ -28,4 +28,5 @@ class Example{
 		}
 		System.out.println(res);
 	}
+	
 }
